@@ -7,7 +7,7 @@
 
 <img width="447" height="705" alt="image" src="https://github.com/user-attachments/assets/c4316307-e7e9-4658-8b33-aac91e573a31" />
 
-<img width="447" height="705" alt="image" src="https://github.com/user-attachments/assets/d0772897-eff3-4c69-8113-a853e0499273" />
+Снимок экрана 2026-01-08 092749.png
 
 
 
