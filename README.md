@@ -6,7 +6,6 @@
 Ссылка на проект- t.me/Yoga_therapy26_bot
 
 <img width="447" height="705" alt="image" src="https://github.com/user-attachments/assets/c4316307-e7e9-4658-8b33-aac91e573a31" />
-https://github.com/Backfire2025/AI-Prompts/blob/main/Снимок%20экрана%202026-01-08%20092749.png?raw=true
 
 
 
