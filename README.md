@@ -5,9 +5,13 @@
 
 Ссылка на проект- t.me/Yoga_therapy26_bot
 
-<img width="635" height="966" alt="image" src="https://github.com/user-attachments/assets/c4316307-e7e9-4658-8b33-aac91e573a31" />
-<img width="635" height="966" alt="image" src="https://github.com/user-attachments/assets/05a53065-96e7-4c94-834f-46508edbefd7" />
-<img width="635" height="966" alt="image" src="https://github.com/user-attachments/assets/46172a51-aaa4-4651-8047-3ca21aa9b079" />
+<img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/19ceae56-b4d6-41eb-a62e-92a93951bf98" />
+<img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/8b556a16-81cd-409c-8790-107848863148" />
+<img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/4df8e953-d41f-447e-80d3-2fb22262e122" />
+<img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/d6eb7976-74de-4524-a0f9-b18c7b9d8f29" />
+<img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/69537c4e-ee45-4f22-8026-805559601633" />
+<img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/57d656c6-cf31-4594-a8cd-0efe7c9d0900" />
+
 
 ## Общее описание
 
